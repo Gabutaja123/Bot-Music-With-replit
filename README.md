@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Bot Musik Discord</h1>
 
 <p align="center">
-  Bot Discord Musik dengan fitur <strong>Change Name Voice</strong>, dibuat menggunakan <code>discord.js</code>.  
+  Bot Discord Musik dengan fitur <strong>Change Name Voice</strong>, dibuat menggunakan <code>replit</code>.  
   Mudah di-setup, ringan, dan tampil dengan suara yang jernih!
 </p>
 
